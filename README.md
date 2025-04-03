@@ -1,5 +1,3 @@
-# README
-
 ## Overview
 This program initializes and trains a deep neural network using predefined training data. It consists of an input layer, a hidden layer, and an output layer. The trained model is then used to make predictions.
 
